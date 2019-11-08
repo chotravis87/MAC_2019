@@ -3,6 +3,7 @@ import time
 import os
 clear = lambda: os.system('clear')
 
+#Variables
 r2 = False
 r3 = False
 r4 = False
